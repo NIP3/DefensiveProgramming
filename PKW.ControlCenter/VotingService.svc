@@ -1,0 +1,6 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="PKW.ControlCenter.VotingService" 
+    Factory="PKW.ControlCenter.WcfExtensions.WcfServiceFactory" 
+     %>
