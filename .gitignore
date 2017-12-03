@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/PKW.Contracts/bin/Debug
+/PKW.Contracts/obj/Debug
+/PKW.Contracts/PKW.Contracts.csproj.user
+/PKW.ControlCenter/bin
+/PKW.ControlCenter/obj/Debug
